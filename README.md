@@ -8,3 +8,5 @@ The gloval pandemic apex date is found to be July 3rd, 2020 with a confirmed cas
 Read more about the results and step-by-step process of this project in the given PDF document. 
 
 The code is also included.
+
+EDIT: Now that the COVID-19 count has passed 8 million as of June 17th, 2020, the machine learning model isn't accurate. This is due to sudden outbursts leading to serious data fluctuations, such as the Brazil outbreak, and rising political problems in the US. 
